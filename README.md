@@ -21,6 +21,3 @@ you can run anywhere you want as Jupyter, Gogole collab, Visual studio code and 
 
 
 
-## Helping students on Computer Science Projects 24*7 
-
-Please Star & fork If you like this Project
